@@ -1,0 +1,316 @@
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+[31m[1m>[0m [90m1 |[0m ...[36mt[0m [33mLink[0m [36mfrom[0m [32m'next/link'[0m;[36mimport[0m [33mThemeToggle[0m [36mfrom[0m [32m'./theme-toggle'[0m;
+  [90m  |[0m                            [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m ...:[32m'Dental Imaging Review'[0m,description:[32m'Dental X-ray decision support'[0m};
+  [90m3 |[0m ...[33mLayout[0m({children}:{children:[33mReact[0m.[33mReactNode[0m}){[36mreturn[0m <html lang=[32m"en"[0m><body><div classNam..[32m.[0m
+  [90m4 |[0m ...
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m [32m'./globals.css'[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m [36mimport[0m [33mNavbar[0m [36mfrom[0m [32m'@/components/navbar'[0m;
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata = { title: [32m'Dental Imaging Review'[0m, description: [32m'Dental X-ray decisi...[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m [32m'./globals.css'[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m [36mimport[0m [33mNavbar[0m [36mfrom[0m [32m'@/components/navbar'[0m;
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata = { title: [32m'Dental Imaging Review'[0m, description: [32m'Dental X-ray decisi...[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m [32m'./globals.css'[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m [36mimport[0m [33mNavbar[0m [36mfrom[0m [32m'@/components/navbar'[0m;
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata = { title: [32m'Dental Imaging Review'[0m, description: [32m'Dental X-ray decisi...[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m [32m'./globals.css'[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m [36mimport[0m [33mNavbar[0m [36mfrom[0m [32m'@/components/navbar'[0m;
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata = { title: [32m'Dental Imaging Review'[0m, description: [32m'Dental X-ray decisi...[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m [32m'./globals.css'[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m [36mimport[0m [33mNavbar[0m [36mfrom[0m [32m'@/components/navbar'[0m;
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata = { title: [32m'Dental Imaging Review'[0m, description: [32m'Dental X-ray decisi...[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m [32m'./globals.css'[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m [36mimport[0m [33mNavbar[0m [36mfrom[0m [32m'@/components/navbar'[0m;
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata = { title: [32m'Dental Imaging Review'[0m, description: [32m'Dental X-ray decisi...[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m [32m'./globals.css'[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m [36mimport[0m [33mNavbar[0m [36mfrom[0m [32m'@/components/navbar'[0m;
+  [90m3 |[0m
+  [90m4 |[0m [36mexport[0m [36mconst[0m metadata = { title: [32m'Dental Imaging Review'[0m, description: [32m'Dental X-ray decisi...[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[browser] ./app/layout.tsx:1:53
+Error: Module not found: Can't resolve './theme-toggle'
+> 1 | ...t Link from 'next/link';import ThemeToggle from './theme-toggle';
+    |                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | ...:'Dental Imaging Review',description:'Dental X-ray decision support'};
+  3 | ...Layout({children}:{children:React.ReactNode}){return <html lang="en"><body><div classNam...
+  4 | ...
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/about/page.tsx
+Error: about/page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/dashboard/page.tsx
+Error: dashboard/page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/detect/page.tsx
+Error: detect/page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/login/page.tsx
+Error: login/page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/page.tsx
+Error: page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/patients/[id]/page.tsx
+Error: patients/[id]/page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/patients/page.tsx
+Error: patients/page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/register/page.tsx
+Error: register/page.tsx doesn't have a root layout. To fix this error, make sure every page has a root layout. 
+[browser] ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+> 1 | import './globals.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import Navbar from '@/components/navbar';
+  3 |
+  4 | export const metadata = { title: 'Dental Imaging Review', description: 'Dental X-ray decisi...
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./app/layout.tsx:1:1
+Error: Module not found: Can't resolve './globals.css'
+> 1 | import './globals.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import Navbar from '@/components/navbar';
+  3 |
+  4 | export const metadata = { title: 'Dental Imaging Review', description: 'Dental X-ray decisi...
+
+https://nextjs.org/docs/messages/module-not-found 

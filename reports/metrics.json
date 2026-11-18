@@ -1,0 +1,49 @@
+{
+  "model": "best_roboflow_4class.pt",
+  "dataset": "Roboflow Universe panoramic-xray-image",
+  "split": "test",
+  "images": 65,
+  "instances": 474,
+  "map50": 0.894,
+  "map50_95": 0.536,
+  "precision": 0.867,
+  "recall": 0.823,
+  "class_names": [
+    "Fillings",
+    "Impacted Tooth",
+    "Implant",
+    "cavity"
+  ],
+  "per_class_ap50": {
+    "Fillings": 0.942,
+    "Impacted Tooth": 0.945,
+    "Implant": 0.991,
+    "cavity": 0.697
+  },
+  "per_class": {
+    "Fillings": {
+      "precision": 0.941,
+      "recall": 0.839,
+      "map50": 0.942,
+      "map50_95": 0.589
+    },
+    "Impacted Tooth": {
+      "precision": 0.934,
+      "recall": 0.835,
+      "map50": 0.945,
+      "map50_95": 0.538
+    },
+    "Implant": {
+      "precision": 0.988,
+      "recall": 0.976,
+      "map50": 0.991,
+      "map50_95": 0.661
+    },
+    "cavity": {
+      "precision": 0.605,
+      "recall": 0.643,
+      "map50": 0.697,
+      "map50_95": 0.357
+    }
+  }
+}

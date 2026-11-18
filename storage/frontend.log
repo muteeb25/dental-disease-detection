@@ -1,0 +1,136 @@
+
+> dental-detection-ui@1.0.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.4.6 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 11.6s
+✓ Running next.config took 571ms
+Creating turbopack project {
+  dir: 'C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend',
+  testMode: true
+}
+
+○ Compiling /login ...
+ GET /login 200 in 1932ms (next.js: 1433ms, application-code: 499ms)
+ GET /login 200 in 162ms (next.js: 12ms, application-code: 151ms)
+ GET / 307 in 164ms (next.js: 36ms, application-code: 128ms)
+ GET /dashboard 200 in 202ms (next.js: 31ms, application-code: 171ms)
+ GET / 307 in 409ms (next.js: 9ms, application-code: 400ms)
+ GET /dashboard 200 in 211ms (next.js: 12ms, application-code: 199ms)
+ GET /login 200 in 327ms (next.js: 7ms, application-code: 320ms)
+ GET /register 200 in 114ms (next.js: 30ms, application-code: 84ms)
+ GET /dashboard 200 in 151ms (next.js: 10ms, application-code: 140ms)
+ GET /dashboard 200 in 42ms (next.js: 7ms, application-code: 35ms)
+ GET /dashboard 200 in 67ms (next.js: 5ms, application-code: 62ms)
+ GET /dashboard 200 in 39ms (next.js: 3ms, application-code: 36ms)
+ GET /dashboard 200 in 45ms (next.js: 4ms, application-code: 41ms)
+ GET /dashboard 200 in 21ms (next.js: 4ms, application-code: 17ms)
+ GET /dashboard 200 in 39ms (next.js: 2ms, application-code: 37ms)
+ GET /dashboard 200 in 22ms (next.js: 4ms, application-code: 18ms)
+ GET /dashboard 200 in 36ms (next.js: 3ms, application-code: 33ms)
+ GET /dashboard 200 in 22ms (next.js: 3ms, application-code: 19ms)
+ GET /dashboard 200 in 42ms (next.js: 3ms, application-code: 40ms)
+ GET /dashboard 200 in 27ms (next.js: 5ms, application-code: 22ms)
+ GET /dashboard 200 in 75ms (next.js: 3ms, application-code: 71ms)
+ GET /detect 200 in 127ms (next.js: 28ms, application-code: 99ms)
+ GET /detect 200 in 82ms (next.js: 11ms, application-code: 70ms)
+ GET /detect 200 in 53ms (next.js: 7ms, application-code: 46ms)
+ GET /dashboard 200 in 45ms (next.js: 3ms, application-code: 41ms)
+ GET /dashboard 200 in 21ms (next.js: 3ms, application-code: 17ms)
+ GET /dashboard 200 in 72ms (next.js: 3ms, application-code: 69ms)
+ GET /dashboard 200 in 19ms (next.js: 3ms, application-code: 17ms)
+ GET /dashboard 200 in 31ms (next.js: 2ms, application-code: 29ms)
+ GET /detect 200 in 45ms (next.js: 2ms, application-code: 42ms)
+ GET /patients 200 in 78ms (next.js: 24ms, application-code: 53ms)
+ GET /about 200 in 141ms (next.js: 47ms, application-code: 94ms)
+ GET /dashboard 200 in 34ms (next.js: 2ms, application-code: 32ms)
+ GET /detect 200 in 61ms (next.js: 4ms, application-code: 57ms)
+ GET /dashboard 200 in 154ms (next.js: 8ms, application-code: 147ms)
+ GET /detect 200 in 83ms (next.js: 6ms, application-code: 77ms)
+ GET /patients 200 in 72ms (next.js: 5ms, application-code: 67ms)
+ GET /about 200 in 80ms (next.js: 5ms, application-code: 75ms)
+ GET /dashboard 200 in 125ms (next.js: 12ms, application-code: 113ms)
+ GET /detect 200 in 91ms (next.js: 20ms, application-code: 71ms)
+ GET /patients 200 in 102ms (next.js: 8ms, application-code: 93ms)
+ GET /detect 200 in 111ms (next.js: 8ms, application-code: 102ms)
+ GET /detect 200 in 64ms (next.js: 7ms, application-code: 57ms)
+ GET /detect 200 in 48ms (next.js: 4ms, application-code: 44ms)
+✓ Compiled in 148ms
+ GET /detect 200 in 40ms (next.js: 4ms, application-code: 36ms)
+✓ Compiled in 826ms
+ GET /detect 200 in 167ms (next.js: 14ms, application-code: 153ms)
+✓ Compiled in 848ms
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\@swc\\helpers\\cjs").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\arg").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\captions-off.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\dribbble.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\gallery-vertical.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\iteration-ccw.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (3.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\notebook-pen.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\square-arrow-out-down-right.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\unplug.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\zoom-in.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\build\\templates").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\client").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\diagnostics").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\esm\\client\\components\\bfcache-state-manager.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\esm\\server\\lib\\implicit-tags.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\mcp-page-metadata-types.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\lib\\metadata\\generate\\utils.d.ts").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\server\\route-modules\\app-page\\vendored\\rsc\\react-jsx-runtime.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\@swc\\helpers\\cjs").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\arrow-left-right.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\caravan.js").
+ GET /login 200 in 1204ms (next.js: 43ms, application-code: 1161ms)
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (3.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\lucide-react\\dist\\esm\\icons\\receipt-pound-sterling.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\build\\lockfile.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\client\\request\\search-params.browser.prod.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\diagnostics").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\esm\\lib\\typescript").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\esm\\server\\node-environment-baseline.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\lib\\detect-typo.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\lib\\mime-type.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\next-devtools\\userspace\\app\\forward-logs.js.map").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\DELL\\Desktop\\dental disease detection\\frontend\\node_modules\\next\\dist\\server\\typescript").
+ GET /dashboard 200 in 101ms (next.js: 7ms, application-code: 94ms)
+ GET /login 200 in 118ms (next.js: 5ms, application-code: 112ms)
+ GET /dashboard 200 in 136ms (next.js: 4ms, application-code: 132ms)
+ GET /patients 200 in 181ms (next.js: 8ms, application-code: 173ms)
+ GET /patients/1 200 in 2.6s (next.js: 2.3s, application-code: 259ms)
+ GET /scans/1 200 in 1647ms (next.js: 1533ms, application-code: 114ms)
+ GET /detect?patient=1 200 in 170ms (next.js: 9ms, application-code: 161ms)
+ GET /detect?patient=4 200 in 123ms (next.js: 4ms, application-code: 120ms)
+ GET /dashboard 200 in 176ms (next.js: 4ms, application-code: 172ms)
+ GET /dashboard 200 in 131ms (next.js: 5ms, application-code: 126ms)
+ GET / 307 in 143ms (next.js: 13ms, application-code: 129ms)
+ GET /dashboard 200 in 194ms (next.js: 3ms, application-code: 191ms)
+ GET / 307 in 284ms (next.js: 37ms, application-code: 246ms)
+ GET /dashboard 200 in 176ms (next.js: 4ms, application-code: 172ms)
+ GET /detect 200 in 92ms (next.js: 8ms, application-code: 84ms)
+ GET /dashboard 200 in 54ms (next.js: 3ms, application-code: 51ms)
+ GET /detect 200 in 95ms (next.js: 11ms, application-code: 84ms)
+ GET /patients 200 in 50ms (next.js: 3ms, application-code: 47ms)
+ GET /about 200 in 98ms (next.js: 10ms, application-code: 88ms)
+ GET /dashboard 200 in 63ms (next.js: 6ms, application-code: 57ms)
+ GET / 307 in 357ms (next.js: 21ms, application-code: 337ms)
+ GET /dashboard 200 in 181ms (next.js: 5ms, application-code: 175ms)
+ GET / 307 in 139ms (next.js: 3ms, application-code: 136ms)
+ GET /dashboard 200 in 98ms (next.js: 3ms, application-code: 95ms)
+ GET /dashboard 200 in 274ms (next.js: 5ms, application-code: 269ms)
+ GET /dashboard 200 in 118ms (next.js: 4ms, application-code: 115ms)
+✓ Compiled in 816ms
+ GET /login?expired=1 200 in 146ms (next.js: 10ms, application-code: 137ms)
+ GET /login 200 in 148ms (next.js: 3ms, application-code: 145ms)
+ GET /login 200 in 142ms (next.js: 7ms, application-code: 135ms)
+ GET /register 200 in 192ms (next.js: 24ms, application-code: 168ms)
+ GET /login 200 in 126ms (next.js: 9ms, application-code: 117ms)
+ GET /dashboard 200 in 136ms (next.js: 9ms, application-code: 127ms)
+ GET /detect 200 in 96ms (next.js: 19ms, application-code: 78ms)
+ GET /detect 404 in 1739ms (next.js: 1628ms, application-code: 111ms)
+ GET /detect 404 in 210ms (next.js: 83ms, application-code: 127ms)
+ GET /detect 200 in 99ms (next.js: 13ms, application-code: 86ms)
+✓ Compiled in 1086ms
+ GET /detect 200 in 171ms (next.js: 6ms, application-code: 164ms)
+[?25h
